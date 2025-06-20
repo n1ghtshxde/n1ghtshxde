@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![Image](https://github.com/user-attachments/assets/18806bc8-bb2e-4064-9468-af5796886a46)
+          “𝙈𝙮 𝙣𝙞𝙜𝙝𝙩𝙨𝙝𝙖𝙙𝙚...”
 <!--
 **n1ghtshxde/n1ghtshxde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
